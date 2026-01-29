@@ -14,3 +14,6 @@
 ### 4. Hypothesis
 username - Diara Shah
 ![Hypothesis Username](images/hypothesis-username.png)
+
+
+Use of github COPilot in future work but no use of AI in this weeks homework
