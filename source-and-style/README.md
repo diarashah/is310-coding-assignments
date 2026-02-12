@@ -16,3 +16,6 @@ HathiTrust is a collaborative project run by academic and research libraries. In
 ## GitHub Repository
 HathiTrust has a public GitHub organization:
 https://github.com/hathitrust
+
+
+![HathiTrust DevTools inspection](images/hathitrust-devtools.png)gitc
