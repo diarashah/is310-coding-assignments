@@ -18,4 +18,4 @@ HathiTrust has a public GitHub organization:
 https://github.com/hathitrust
 
 
-![HathiTrust DevTools inspection](images/hathitrust-devtools.png)
+![HathiTrust DevTools inspection](images/hathitrust-devtolls.png)
