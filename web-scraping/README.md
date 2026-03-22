@@ -1,4 +1,4 @@
-# Harry Potter — Fandom Wiki Character Scraper
+# Harry Potter - Fandom Wiki Character Scraper
 
 ## Wiki Chosen
 
