@@ -1,0 +1,961 @@
+[
+    {
+        "completeness": 0,
+        "country": [
+            "Germany"
+        ],
+        "dataProvider": [
+            "Museum of European Cultures, Staatliche Museen zu Berlin"
+        ],
+        "dcTitleLangAware": {
+            "de": [
+                "Luke Skywalker"
+            ]
+        },
+        "edmConcept": [
+            "http://data.europeana.eu/concept/1796"
+        ],
+        "edmConceptLabel": [
+            {
+                "def": "Kunststoff"
+            },
+            {
+                "def": "Muovi"
+            },
+            {
+                "def": "\u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0441\u044b"
+            },
+            {
+                "def": "Pl\u00e1stico"
+            },
+            {
+                "def": "\u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0430"
+            },
+            {
+                "def": "Plastikas"
+            },
+            {
+                "def": "Plastika"
+            },
+            {
+                "def": "Plastmasas"
+            },
+            {
+                "def": "Mati\u00e8re plastique"
+            },
+            {
+                "def": "M\u0171anyag"
+            },
+            {
+                "def": "Plast"
+            },
+            {
+                "def": "Plastika"
+            },
+            {
+                "def": "Plaisteach"
+            },
+            {
+                "def": "Pl\u00e0stic"
+            },
+            {
+                "def": "Plast"
+            },
+            {
+                "def": "\u03a0\u03bb\u03b1\u03c3\u03c4\u03b9\u03ba\u03cc"
+            },
+            {
+                "def": "Plastic"
+            },
+            {
+                "def": "Materie plastiche"
+            },
+            {
+                "def": "Pl\u00e1stico"
+            },
+            {
+                "def": "Plast"
+            },
+            {
+                "def": "Plast"
+            },
+            {
+                "def": "Plastiko"
+            },
+            {
+                "def": "Tworzywo sztuczne"
+            },
+            {
+                "def": "Plast"
+            },
+            {
+                "def": "Mas\u0103 plastic\u0103"
+            },
+            {
+                "def": "Kunststof"
+            }
+        ],
+        "edmConceptPrefLabelLangAware": {
+            "de": [
+                "Kunststoff"
+            ],
+            "fi": [
+                "Muovi"
+            ],
+            "ru": [
+                "\u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0441\u044b"
+            ],
+            "pt": [
+                "Pl\u00e1stico"
+            ],
+            "bg": [
+                "\u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0430"
+            ],
+            "lt": [
+                "Plastikas"
+            ],
+            "hr": [
+                "Plastika"
+            ],
+            "lv": [
+                "Plastmasas"
+            ],
+            "fr": [
+                "Mati\u00e8re plastique"
+            ],
+            "hu": [
+                "M\u0171anyag"
+            ],
+            "sk": [
+                "Plast"
+            ],
+            "sl": [
+                "Plastika"
+            ],
+            "ga": [
+                "Plaisteach"
+            ],
+            "ca": [
+                "Pl\u00e0stic"
+            ],
+            "sv": [
+                "Plast"
+            ],
+            "el": [
+                "\u03a0\u03bb\u03b1\u03c3\u03c4\u03b9\u03ba\u03cc"
+            ],
+            "en": [
+                "Plastic"
+            ],
+            "it": [
+                "Materie plastiche"
+            ],
+            "es": [
+                "Pl\u00e1stico"
+            ],
+            "et": [
+                "Plast"
+            ],
+            "cs": [
+                "Plast"
+            ],
+            "eu": [
+                "Plastiko"
+            ],
+            "pl": [
+                "Tworzywo sztuczne"
+            ],
+            "da": [
+                "Plast"
+            ],
+            "ro": [
+                "Mas\u0103 plastic\u0103"
+            ],
+            "nl": [
+                "Kunststof"
+            ]
+        },
+        "edmDatasetName": [
+            "2064108_SMB"
+        ],
+        "edmIsShownAt": [
+            "http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=1399464"
+        ],
+        "edmIsShownBy": [
+            "http://www.smb-digital.de/eMuseumPlus?service=ImageAsset&module=collection&objectId=1399464&resolution=superImageResolution#2591470"
+        ],
+        "edmPreview": [
+            "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.smb-digital.de%2FeMuseumPlus%3Fservice%3DImageAsset%26module%3Dcollection%26objectId%3D1399464%26resolution%3DsuperImageResolution%232591470&type=IMAGE"
+        ],
+        "edmTimespanLabel": [
+            {
+                "def": "2007"
+            }
+        ],
+        "edmTimespanLabelLangAware": {
+            "zxx": [
+                "2007"
+            ]
+        },
+        "europeanaCollectionName": [
+            "2064108_SMB"
+        ],
+        "europeanaCompleteness": 0,
+        "guid": "https://www.europeana.eu/item/2064108/Museu_ProvidedCHO_Museum_Europ_ischer_Kulturen__Staatliche_Museen_zu_Berlin_DE_MUS_018719_1399464?utm_source=api&utm_medium=api&utm_campaign=apidemo",
+        "id": "/2064108/Museu_ProvidedCHO_Museum_Europ_ischer_Kulturen__Staatliche_Museen_zu_Berlin_DE_MUS_018719_1399464",
+        "index": 0,
+        "language": [
+            "mul"
+        ],
+        "link": "https://api.europeana.eu/record/2064108/Museu_ProvidedCHO_Museum_Europ_ischer_Kulturen__Staatliche_Museen_zu_Berlin_DE_MUS_018719_1399464.json?wskey=apidemo",
+        "previewNoDistribute": false,
+        "provider": [
+            "MUSEU"
+        ],
+        "rights": [
+            "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+        ],
+        "score": 119.90507,
+        "timestamp": 1752027008584,
+        "timestamp_created": "2020-08-24T09:45:34.253Z",
+        "timestamp_created_epoch": 1598262334253,
+        "timestamp_update": "2020-08-24T09:45:34.253Z",
+        "timestamp_update_epoch": 1598262334253,
+        "title": [
+            "Luke Skywalker"
+        ],
+        "type": "IMAGE",
+        "ugc": [
+            false
+        ],
+        "year": [
+            "2007"
+        ]
+    },
+    {
+        "completeness": 0,
+        "country": [
+            "Sweden"
+        ],
+        "dataProvider": [
+            "Nordic Museum Foundation"
+        ],
+        "dcDescription": [
+            "DockaLuke skywalkerInventering Sesam 1996-1999:\nDocka helt gjuten i plast. Helt svartkl\u00e4dd, svart handske p\u00e5 h\u00f6ger hand (kl\u00e4dd som Jedi-riddare, en svart mantel och laservapen saknas). Ledade h\u00f6fter och axlar. Vridbart huvud. M\u00e4rkt p\u00e5 v\u00e4nster st\u00f6vel. \"c (i ring, copyrightm\u00e4rke) LFL 1983\".\nLuke Skywalker var hj\u00e4lte i filmerna om stj\u00e4rnornas krig, sedermera ledare f\u00f6r Rebellerna tillsammans med prinsessan Leia och Han Solo. Se inv.nr 312.863-312.868 och 312.941.\nHar tillh\u00f6rt Stefan St\u00e5lg\u00e4rde, f\u00f6dd 1975, Jordbro. Ink\u00f6pt i samband med 1986 \u00e5rs hemunders\u00f6kning, SAMDOK hempool.\n/Leif Wallin 1996\n\nMaterialet \u00e4r etenplast enligt konservator Thea Winther 2010."
+        ],
+        "dcDescriptionLangAware": {
+            "sw": [
+                "DockaLuke skywalkerInventering Sesam 1996-1999:\nDocka helt gjuten i plast. Helt svartkl\u00e4dd, svart handske p\u00e5 h\u00f6ger hand (kl\u00e4dd som Jedi-riddare, en svart mantel och laservapen saknas). Ledade h\u00f6fter och axlar. Vridbart huvud. M\u00e4rkt p\u00e5 v\u00e4nster st\u00f6vel. \"c (i ring, copyrightm\u00e4rke) LFL 1983\".\nLuke Skywalker var hj\u00e4lte i filmerna om stj\u00e4rnornas krig, sedermera ledare f\u00f6r Rebellerna tillsammans med prinsessan Leia och Han Solo. Se inv.nr 312.863-312.868 och 312.941.\nHar tillh\u00f6rt Stefan St\u00e5lg\u00e4rde, f\u00f6dd 1975, Jordbro. Ink\u00f6pt i samband med 1986 \u00e5rs hemunders\u00f6kning, SAMDOK hempool.\n/Leif Wallin 1996\n\nMaterialet \u00e4r etenplast enligt konservator Thea Winther 2010."
+            ]
+        },
+        "dcTitleLangAware": {
+            "sw": [
+                "Docka:Luke Skywalker"
+            ]
+        },
+        "edmConcept": [
+            "http://thesaurus.europeanafashion.eu/thesaurus/10617",
+            "http://data.europeana.eu/concept/2312",
+            "http://thesaurus.europeanafashion.eu/thesaurus/10401"
+        ],
+        "edmConceptLabel": [
+            {
+                "def": "Puppenkleidung"
+            },
+            {
+                "def": "Puppenkleidung"
+            },
+            {
+                "def": "Schwarz"
+            },
+            {
+                "def": "dockkl\u00e4der"
+            },
+            {
+                "def": "Dockkl\u00e4der"
+            },
+            {
+                "def": "svart"
+            },
+            {
+                "def": "roupa de boneca"
+            },
+            {
+                "def": "Roupa de boneca"
+            },
+            {
+                "def": "preto"
+            },
+            {
+                "def": "\u03b5\u03bd\u03b4\u03cd\u03bc\u03b1\u03c4\u03b1 \u03ba\u03bf\u03cd\u03ba\u03bb\u03b1\u03c2"
+            },
+            {
+                "def": "\u0395\u03bd\u03b4\u03cd\u03bc\u03b1\u03c4\u03b1 \u03ba\u03bf\u03cd\u03ba\u03bb\u03b1\u03c2"
+            },
+            {
+                "def": "\u03bc\u03b1\u03cd\u03c1\u03bf"
+            },
+            {
+                "def": "doll's clothing"
+            },
+            {
+                "def": "Doll clothes"
+            },
+            {
+                "def": "black"
+            },
+            {
+                "def": "vestitini da bambola"
+            },
+            {
+                "def": "Vestitini da bambola"
+            },
+            {
+                "def": "nero"
+            },
+            {
+                "def": "v\u00eatements de poup\u00e9e"
+            },
+            {
+                "def": "V\u00eatements de poup\u00e9e"
+            },
+            {
+                "def": "noir"
+            },
+            {
+                "def": "\u05d1\u05d2\u05d3\u05d9 \u05d1\u05d5\u05d1\u05d5\u05ea"
+            },
+            {
+                "def": "\u05e9\u05d7\u05d5\u05e8"
+            },
+            {
+                "def": "poppenkleding"
+            },
+            {
+                "def": "Poppenkleding"
+            },
+            {
+                "def": "zwart"
+            },
+            {
+                "def": "ropa de mu\u00f1eca"
+            },
+            {
+                "def": "Ropa de mu\u00f1eca"
+            },
+            {
+                "def": "negro"
+            },
+            {
+                "def": "ode\u0107a za lutke"
+            },
+            {
+                "def": "\u0446\u0440\u043d\u0430"
+            }
+        ],
+        "edmConceptPrefLabelLangAware": {
+            "de": [
+                "Puppenkleidung",
+                "Schwarz"
+            ],
+            "sv": [
+                "svart",
+                "dockkl\u00e4der",
+                "Dockkl\u00e4der"
+            ],
+            "pt": [
+                "preto",
+                "Roupa de boneca",
+                "roupa de boneca"
+            ],
+            "el": [
+                "\u0395\u03bd\u03b4\u03cd\u03bc\u03b1\u03c4\u03b1 \u03ba\u03bf\u03cd\u03ba\u03bb\u03b1\u03c2",
+                "\u03b5\u03bd\u03b4\u03cd\u03bc\u03b1\u03c4\u03b1 \u03ba\u03bf\u03cd\u03ba\u03bb\u03b1\u03c2",
+                "\u03bc\u03b1\u03cd\u03c1\u03bf"
+            ],
+            "en": [
+                "Doll clothes",
+                "black",
+                "doll's clothing"
+            ],
+            "it": [
+                "vestitini da bambola",
+                "nero",
+                "Vestitini da bambola"
+            ],
+            "fr": [
+                "v\u00eatements de poup\u00e9e",
+                "noir",
+                "V\u00eatements de poup\u00e9e"
+            ],
+            "he": [
+                "\u05e9\u05d7\u05d5\u05e8",
+                "\u05d1\u05d2\u05d3\u05d9 \u05d1\u05d5\u05d1\u05d5\u05ea"
+            ],
+            "nl": [
+                "poppenkleding",
+                "Poppenkleding",
+                "zwart"
+            ],
+            "es": [
+                "negro",
+                "Ropa de mu\u00f1eca",
+                "ropa de mu\u00f1eca"
+            ],
+            "sr": [
+                "ode\u0107a za lutke",
+                "\u0446\u0440\u043d\u0430"
+            ]
+        },
+        "edmDatasetName": [
+            "2048211_EuropeanaFashion_1019"
+        ],
+        "edmIsShownAt": [
+            "http://digitaltmuseum.se/things/thing/S-NM/NM.0312865?size=800"
+        ],
+        "edmIsShownBy": [
+            "http://media35a.dimu.no/media/decoimage/S-NM/NM.0312865/15335?size=800"
+        ],
+        "edmPreview": [
+            "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia35a.dimu.no%2Fmedia%2Fdecoimage%2FS-NM%2FNM.0312865%2F15335%3Fsize%3D800&type=IMAGE"
+        ],
+        "edmTimespanLabel": [
+            {
+                "def": "1980/1980"
+            },
+            {
+                "def": "1980"
+            }
+        ],
+        "edmTimespanLabelLangAware": {
+            "zxx": [
+                "1980/1980",
+                "1980"
+            ]
+        },
+        "europeanaCollectionName": [
+            "2048211_EuropeanaFashion_1019"
+        ],
+        "europeanaCompleteness": 0,
+        "guid": "https://www.europeana.eu/item/2048211/europeana_fashion_NM_0312865?utm_source=api&utm_medium=api&utm_campaign=apidemo",
+        "id": "/2048211/europeana_fashion_NM_0312865",
+        "index": 0,
+        "language": [
+            "mul"
+        ],
+        "link": "https://api.europeana.eu/record/2048211/europeana_fashion_NM_0312865.json?wskey=apidemo",
+        "previewNoDistribute": false,
+        "provider": [
+            "European Fashion Heritage Association"
+        ],
+        "rights": [
+            "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        ],
+        "score": 115.81916,
+        "timestamp": 1752053090333,
+        "timestamp_created": "2018-11-29T09:25:08.850Z",
+        "timestamp_created_epoch": 1543483508850,
+        "timestamp_update": "2022-01-25T11:27:24.515Z",
+        "timestamp_update_epoch": 1643110044515,
+        "title": [
+            "Docka:Luke Skywalker"
+        ],
+        "type": "IMAGE",
+        "ugc": [
+            false
+        ],
+        "year": [
+            "1980"
+        ]
+    },
+    {
+        "completeness": 0,
+        "country": [
+            "Sweden"
+        ],
+        "dataProvider": [
+            "Uppsala University"
+        ],
+        "dcCreator": [
+            "Gustavsson Gina 1984- , Uppsala universitet, Statsvetenskapliga institutionen",
+            "Gustavsson Gina 1984- , Uppsala universitet, Statsvetenskapliga institutionen"
+        ],
+        "dcCreatorLangAware": {
+            "sv": [
+                "Gustavsson Gina 1984- , Uppsala universitet, Statsvetenskapliga institutionen"
+            ],
+            "def": [
+                "Gustavsson Gina 1984- , Uppsala universitet, Statsvetenskapliga institutionen"
+            ]
+        },
+        "dcDescription": [
+            "<p>It is often suggested that the distinguishing characteristic of public opinion in contemporary Western societies is a lack of shared moral guidelines in life: everything goes. The only ideal left is what is often called individualism, namely that of <em>not</em> accepting any given roles, values or ideals in life but instead striving towards being as free as possible to behave as one pleases. In the thesis that this chapter forms a part of, I offer a different understanding of the much discussed culture of individualism. In later chapters, I shall present data that allow us to question existing assumptions regarding the empirical nature of individualistic values. In this chapter, however, I begin by addressing what I believe is still an un-settled issue of just as much, if not even more, importance: the concept of individualism and how to define it. This chapter aims to equip us with the theoretical Wellingtons we need before venturing into the empirical swamp of individualism. We still know too little about individualism as a set of moral ideals concerning how human beings and society ought to behave. The root of the problem, I suggest, is that we lack a theoretically sound definition of what this kind of normative individualism is and what it is not; which in turn means we have no existing framework for making systematic comparisons between different versions of individualistic ideals. Here, I develop a definition of normative individualism and such a framework. \u00a0In doing so, I\u00a0do not only contribute to a more thorough understanding of individualism, but also to two closely related debates in political theory. Normative individualism, it is shown, amounts to valuing individual liberty of different kinds. Thus, the concept of individualism provides a new and rewarding entry to two classic conceptual questions which I also discuss: how to define freedom and how to define moral autonomy.</p>",
+            "Presented at the Nordic Network in Political Theory, 8th Annual workshop, Uppsala, Sweden, October 2008.",
+            "<p>It is often suggested that the distinguishing characteristic of public opinion in contemporary Western societies is a lack of shared moral guidelines in life: everything goes. The only ideal left is what is often called individualism, namely that of <em>not</em> accepting any given roles, values or ideals in life but instead striving towards being as free as possible to behave as one pleases. In the thesis that this chapter forms a part of, I offer a different understanding of the much discussed culture of individualism. In later chapters, I shall present data that allow us to question existing assumptions regarding the empirical nature of individualistic values. In this chapter, however, I begin by addressing what I believe is still an un-settled issue of just as much, if not even more, importance: the concept of individualism and how to define it. This chapter aims to equip us with the theoretical Wellingtons we need before venturing into the empirical swamp of individualism. We still know too little about individualism as a set of moral ideals concerning how human beings and society ought to behave. The root of the problem, I suggest, is that we lack a theoretically sound definition of what this kind of normative individualism is and what it is not; which in turn means we have no existing framework for making systematic comparisons between different versions of individualistic ideals. Here, I develop a definition of normative individualism and such a framework. \u00a0In doing so, I\u00a0do not only contribute to a more thorough understanding of individualism, but also to two closely related debates in political theory. Normative individualism, it is shown, amounts to valuing individual liberty of different kinds. Thus, the concept of individualism provides a new and rewarding entry to two classic conceptual questions which I also discuss: how to define freedom and how to define moral autonomy.</p>",
+            "Presented at the Nordic Network in Political Theory, 8th Annual workshop, Uppsala, Sweden, October 2008."
+        ],
+        "dcDescriptionLangAware": {
+            "def": [
+                "<p>It is often suggested that the distinguishing characteristic of public opinion in contemporary Western societies is a lack of shared moral guidelines in life: everything goes. The only ideal left is what is often called individualism, namely that of <em>not</em> accepting any given roles, values or ideals in life but instead striving towards being as free as possible to behave as one pleases. In the thesis that this chapter forms a part of, I offer a different understanding of the much discussed culture of individualism. In later chapters, I shall present data that allow us to question existing assumptions regarding the empirical nature of individualistic values. In this chapter, however, I begin by addressing what I believe is still an un-settled issue of just as much, if not even more, importance: the concept of individualism and how to define it. This chapter aims to equip us with the theoretical Wellingtons we need before venturing into the empirical swamp of individualism. We still know too little about individualism as a set of moral ideals concerning how human beings and society ought to behave. The root of the problem, I suggest, is that we lack a theoretically sound definition of what this kind of normative individualism is and what it is not; which in turn means we have no existing framework for making systematic comparisons between different versions of individualistic ideals. Here, I develop a definition of normative individualism and such a framework. \u00a0In doing so, I\u00a0do not only contribute to a more thorough understanding of individualism, but also to two closely related debates in political theory. Normative individualism, it is shown, amounts to valuing individual liberty of different kinds. Thus, the concept of individualism provides a new and rewarding entry to two classic conceptual questions which I also discuss: how to define freedom and how to define moral autonomy.</p>",
+                "Presented at the Nordic Network in Political Theory, 8th Annual workshop, Uppsala, Sweden, October 2008."
+            ],
+            "en": [
+                "<p>It is often suggested that the distinguishing characteristic of public opinion in contemporary Western societies is a lack of shared moral guidelines in life: everything goes. The only ideal left is what is often called individualism, namely that of <em>not</em> accepting any given roles, values or ideals in life but instead striving towards being as free as possible to behave as one pleases. In the thesis that this chapter forms a part of, I offer a different understanding of the much discussed culture of individualism. In later chapters, I shall present data that allow us to question existing assumptions regarding the empirical nature of individualistic values. In this chapter, however, I begin by addressing what I believe is still an un-settled issue of just as much, if not even more, importance: the concept of individualism and how to define it. This chapter aims to equip us with the theoretical Wellingtons we need before venturing into the empirical swamp of individualism. We still know too little about individualism as a set of moral ideals concerning how human beings and society ought to behave. The root of the problem, I suggest, is that we lack a theoretically sound definition of what this kind of normative individualism is and what it is not; which in turn means we have no existing framework for making systematic comparisons between different versions of individualistic ideals. Here, I develop a definition of normative individualism and such a framework. \u00a0In doing so, I\u00a0do not only contribute to a more thorough understanding of individualism, but also to two closely related debates in political theory. Normative individualism, it is shown, amounts to valuing individual liberty of different kinds. Thus, the concept of individualism provides a new and rewarding entry to two classic conceptual questions which I also discuss: how to define freedom and how to define moral autonomy.</p>",
+                "Presented at the Nordic Network in Political Theory, 8th Annual workshop, Uppsala, Sweden, October 2008."
+            ]
+        },
+        "dcLanguage": [
+            "en"
+        ],
+        "dcLanguageLangAware": {
+            "def": [
+                "en"
+            ]
+        },
+        "dcTitleLangAware": {
+            "en": [
+                "Individualism in Theory Or the Virtues of Harry Potter, Luke Skywalker, Lisa Simpson and Pippi Longstocking"
+            ]
+        },
+        "edmDatasetName": [
+            "9200111_Ag_EU_TEL_a1041_EuropeanaLibraries"
+        ],
+        "edmIsShownAt": [
+            "http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-26692"
+        ],
+        "edmIsShownBy": [
+            "http://uu.diva-portal.org/smash/get/diva2:54562/FULLTEXT01"
+        ],
+        "edmPreview": [
+            "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fuu.diva-portal.org%2Fsmash%2Fget%2Fdiva2%3A54562%2FFULLTEXT01&type=TEXT"
+        ],
+        "edmTimespanLabel": [
+            {
+                "def": "Second millenium AD"
+            },
+            {
+                "def": "Second millenium AD, years 1001-2000"
+            },
+            {
+                "def": "Time"
+            },
+            {
+                "def": "Chronological period"
+            },
+            {
+                "def": "2e mill\u00e9naire apr\u00e8s J.-C."
+            },
+            {
+                "def": "2008-10-20"
+            },
+            {
+                "def": "2008"
+            }
+        ],
+        "edmTimespanLabelLangAware": {
+            "en": [
+                "Second millenium AD",
+                "Second millenium AD, years 1001-2000",
+                "Time",
+                "Chronological period"
+            ],
+            "zxx": [
+                "2008-10-20",
+                "2008"
+            ],
+            "fr": [
+                "2e mill\u00e9naire apr\u00e8s J.-C."
+            ]
+        },
+        "europeanaCollectionName": [
+            "9200111_Ag_EU_TEL_a1041_EuropeanaLibraries"
+        ],
+        "europeanaCompleteness": 0,
+        "guid": "https://www.europeana.eu/item/9200111/BibliographicResource_1000085972499?utm_source=api&utm_medium=api&utm_campaign=apidemo",
+        "id": "/9200111/BibliographicResource_1000085972499",
+        "index": 0,
+        "language": [
+            "sv"
+        ],
+        "link": "https://api.europeana.eu/record/9200111/BibliographicResource_1000085972499.json?wskey=apidemo",
+        "previewNoDistribute": false,
+        "provider": [
+            "The European Library"
+        ],
+        "rights": [
+            "http://rightsstatements.org/vocab/InC/1.0/"
+        ],
+        "score": 66.877205,
+        "timestamp": 1752048094775,
+        "timestamp_created": "2014-09-07T10:47:14.819Z",
+        "timestamp_created_epoch": 1410086834819,
+        "timestamp_update": "2014-09-07T10:47:14.819Z",
+        "timestamp_update_epoch": 1410086834819,
+        "title": [
+            "Individualism in Theory Or the Virtues of Harry Potter, Luke Skywalker, Lisa Simpson and Pippi Longstocking"
+        ],
+        "type": "TEXT",
+        "ugc": [
+            false
+        ],
+        "year": [
+            "2008"
+        ]
+    },
+    {
+        "completeness": 8,
+        "country": [
+            "Germany"
+        ],
+        "dataProvider": [
+            "Toy Museum of the City of Nuremberg"
+        ],
+        "dcDescription": [
+            "Star Wars: Revenge oft the Sith: Anakin Skywalker",
+            "1 plastic figure from the Star Wars series, Anakin Skywalker; original packaging, brand new",
+            "Star Wars : Revenge oft the Sith : Anakin Skywalker",
+            "1 Kunststofffigur aus der Star Wars Serie, Anakin Skywalker; Originalverpackung, fabrikneu"
+        ],
+        "dcDescriptionLangAware": {
+            "de": [
+                "Star Wars : Revenge oft the Sith : Anakin Skywalker",
+                "1 Kunststofffigur aus der Star Wars Serie, Anakin Skywalker; Originalverpackung, fabrikneu"
+            ],
+            "en": [
+                "Star Wars: Revenge oft the Sith: Anakin Skywalker",
+                "1 plastic figure from the Star Wars series, Anakin Skywalker; original packaging, brand new"
+            ]
+        },
+        "dcTitleLangAware": {
+            "de": [
+                "Kunststoffigur"
+            ],
+            "en": [
+                "plastic jar"
+            ]
+        },
+        "edmConcept": [
+            "http://vocab.getty.edu/aat/300136012"
+        ],
+        "edmConceptLabel": [
+            {
+                "def": "Recreational Artifacts (hierarchy name )"
+            },
+            {
+                "def": "Objets de divertissement"
+            },
+            {
+                "def": "artefactos recreativos"
+            },
+            {
+                "def": "Ontspanningsmiddelen"
+            }
+        ],
+        "edmConceptPrefLabelLangAware": {
+            "en": [
+                "Recreational Artifacts (hierarchy name )"
+            ],
+            "fr": [
+                "Objets de divertissement"
+            ],
+            "es": [
+                "artefactos recreativos"
+            ],
+            "nl": [
+                "Ontspanningsmiddelen"
+            ]
+        },
+        "edmDatasetName": [
+            "2064109_Spielzeug_Museum"
+        ],
+        "edmIsShownAt": [
+            "http://www.vino-online.net/anonymous.php?DBApp=spnb&application=spnb_detail&role=Recherche&Ident=INV_INVNR&Value=2005.123"
+        ],
+        "edmIsShownBy": [
+            "http://www.vino-online.net/anschaubilder/Digital48/2005123.JPG"
+        ],
+        "edmPreview": [
+            "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.vino-online.net%2Fanschaubilder%2FDigital48%2F2005123.JPG&type=IMAGE"
+        ],
+        "edmTimespanLabel": [
+            {
+                "def": "Second millenium AD"
+            },
+            {
+                "def": "Second millenium AD, years 1001-2000"
+            },
+            {
+                "def": "21-st"
+            },
+            {
+                "def": "21st"
+            },
+            {
+                "def": "21st century"
+            },
+            {
+                "def": "2e mill\u00e9naire apr\u00e8s J.-C."
+            },
+            {
+                "def": "21er si\u00e8cle"
+            },
+            {
+                "def": "2005"
+            },
+            {
+                "def": "21\u0439 \u0432\u0435\u043a"
+            },
+            {
+                "def": "21.."
+            },
+            {
+                "def": "21??"
+            },
+            {
+                "def": "21e"
+            },
+            {
+                "def": "21ste eeuw"
+            }
+        ],
+        "edmTimespanLabelLangAware": {
+            "ru": [
+                "21\u0439 \u0432\u0435\u043a"
+            ],
+            "def": [
+                "21..",
+                "21??",
+                "21e"
+            ],
+            "en": [
+                "Second millenium AD",
+                "Second millenium AD, years 1001-2000",
+                "21-st",
+                "21st",
+                "21st century"
+            ],
+            "zxx": [
+                "2005"
+            ],
+            "fr": [
+                "2e mill\u00e9naire apr\u00e8s J.-C.",
+                "21er si\u00e8cle"
+            ],
+            "nl": [
+                "21ste eeuw"
+            ]
+        },
+        "europeanaCollectionName": [
+            "2064109_Spielzeug_Museum"
+        ],
+        "europeanaCompleteness": 8,
+        "guid": "https://www.europeana.eu/item/2064109/Museu_ProvidedCHO_Spielzeugmuseum_der_Stadt_N_rnberg__Museum_Lydia_Bayer__48717__Datensatz_?utm_source=api&utm_medium=api&utm_campaign=apidemo",
+        "id": "/2064109/Museu_ProvidedCHO_Spielzeugmuseum_der_Stadt_N_rnberg__Museum_Lydia_Bayer__48717__Datensatz_",
+        "index": 0,
+        "language": [
+            "de"
+        ],
+        "link": "https://api.europeana.eu/record/2064109/Museu_ProvidedCHO_Spielzeugmuseum_der_Stadt_N_rnberg__Museum_Lydia_Bayer__48717__Datensatz_.json?wskey=apidemo",
+        "previewNoDistribute": false,
+        "provider": [
+            "MUSEU"
+        ],
+        "rights": [
+            "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+        ],
+        "score": 30.241796,
+        "timestamp": 1752047209011,
+        "timestamp_created": "2017-04-10T07:46:09.945Z",
+        "timestamp_created_epoch": 1491810369945,
+        "timestamp_update": "2018-07-31T13:17:35.164Z",
+        "timestamp_update_epoch": 1533043055164,
+        "title": [
+            "plastic jar",
+            "Kunststoffigur"
+        ],
+        "type": "IMAGE",
+        "ugc": [
+            false
+        ],
+        "year": [
+            "2005"
+        ]
+    },
+    {
+        "completeness": 10,
+        "country": [
+            "Germany"
+        ],
+        "dataProvider": [
+            "Toy Museum of the City of Nuremberg"
+        ],
+        "dcDescription": [
+            "1 plastic jar as Anakin Skywalker. Star Wars basic character for Episode III: The Revenge of the Sith; Modern",
+            "Star Wars : Revenge of the Sith / Die Rache der Sith : Anakin Skywalker",
+            "1 Kunststoffigur als Anakin Skywalker. Star Wars Basisfigur zur Episode III: Die Rache der Sith; neuwertig"
+        ],
+        "dcDescriptionLangAware": {
+            "de": [
+                "Star Wars : Revenge of the Sith / Die Rache der Sith : Anakin Skywalker",
+                "1 Kunststoffigur als Anakin Skywalker. Star Wars Basisfigur zur Episode III: Die Rache der Sith; neuwertig"
+            ],
+            "en": [
+                "1 plastic jar as Anakin Skywalker. Star Wars basic character for Episode III: The Revenge of the Sith; Modern"
+            ]
+        },
+        "dcTitleLangAware": {
+            "de": [
+                "Kunststoffigur"
+            ],
+            "en": [
+                "plastic jar"
+            ]
+        },
+        "edmConcept": [
+            "http://vocab.getty.edu/aat/300136012"
+        ],
+        "edmConceptLabel": [
+            {
+                "def": "Recreational Artifacts (hierarchy name )"
+            },
+            {
+                "def": "Objets de divertissement"
+            },
+            {
+                "def": "artefactos recreativos"
+            },
+            {
+                "def": "Ontspanningsmiddelen"
+            }
+        ],
+        "edmConceptPrefLabelLangAware": {
+            "en": [
+                "Recreational Artifacts (hierarchy name )"
+            ],
+            "fr": [
+                "Objets de divertissement"
+            ],
+            "es": [
+                "artefactos recreativos"
+            ],
+            "nl": [
+                "Ontspanningsmiddelen"
+            ]
+        },
+        "edmDatasetName": [
+            "2064109_Spielzeug_Museum"
+        ],
+        "edmIsShownAt": [
+            "http://www.vino-online.net/anonymous.php?DBApp=spnb&application=spnb_detail&role=Recherche&Ident=INV_INVNR&Value=2005.153"
+        ],
+        "edmIsShownBy": [
+            "http://www.vino-online.net/anschaubilder/Digital48/2005153.JPG"
+        ],
+        "edmPreview": [
+            "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.vino-online.net%2Fanschaubilder%2FDigital48%2F2005153.JPG&type=IMAGE"
+        ],
+        "edmTimespanLabel": [
+            {
+                "def": "Second millenium AD"
+            },
+            {
+                "def": "Second millenium AD, years 1001-2000"
+            },
+            {
+                "def": "21-st"
+            },
+            {
+                "def": "21st"
+            },
+            {
+                "def": "21st century"
+            },
+            {
+                "def": "2e mill\u00e9naire apr\u00e8s J.-C."
+            },
+            {
+                "def": "21er si\u00e8cle"
+            },
+            {
+                "def": "2005"
+            },
+            {
+                "def": "21\u0439 \u0432\u0435\u043a"
+            },
+            {
+                "def": "21.."
+            },
+            {
+                "def": "21??"
+            },
+            {
+                "def": "21e"
+            },
+            {
+                "def": "21ste eeuw"
+            }
+        ],
+        "edmTimespanLabelLangAware": {
+            "ru": [
+                "21\u0439 \u0432\u0435\u043a"
+            ],
+            "def": [
+                "21..",
+                "21??",
+                "21e"
+            ],
+            "en": [
+                "Second millenium AD",
+                "Second millenium AD, years 1001-2000",
+                "21-st",
+                "21st",
+                "21st century"
+            ],
+            "zxx": [
+                "2005"
+            ],
+            "fr": [
+                "2e mill\u00e9naire apr\u00e8s J.-C.",
+                "21er si\u00e8cle"
+            ],
+            "nl": [
+                "21ste eeuw"
+            ]
+        },
+        "europeanaCollectionName": [
+            "2064109_Spielzeug_Museum"
+        ],
+        "europeanaCompleteness": 10,
+        "guid": "https://www.europeana.eu/item/2064109/Museu_ProvidedCHO_Spielzeugmuseum_der_Stadt_N_rnberg__Museum_Lydia_Bayer__48793__Datensatz_?utm_source=api&utm_medium=api&utm_campaign=apidemo",
+        "id": "/2064109/Museu_ProvidedCHO_Spielzeugmuseum_der_Stadt_N_rnberg__Museum_Lydia_Bayer__48793__Datensatz_",
+        "index": 0,
+        "language": [
+            "de"
+        ],
+        "link": "https://api.europeana.eu/record/2064109/Museu_ProvidedCHO_Spielzeugmuseum_der_Stadt_N_rnberg__Museum_Lydia_Bayer__48793__Datensatz_.json?wskey=apidemo",
+        "previewNoDistribute": false,
+        "provider": [
+            "MUSEU"
+        ],
+        "rights": [
+            "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+        ],
+        "score": 27.908867,
+        "timestamp": 1752047215546,
+        "timestamp_created": "2017-04-10T07:46:10.232Z",
+        "timestamp_created_epoch": 1491810370232,
+        "timestamp_update": "2018-07-31T13:17:35.912Z",
+        "timestamp_update_epoch": 1533043055912,
+        "title": [
+            "plastic jar",
+            "Kunststoffigur"
+        ],
+        "type": "IMAGE",
+        "ugc": [
+            false
+        ],
+        "year": [
+            "2005"
+        ]
+    }
+]
